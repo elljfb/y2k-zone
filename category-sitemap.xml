@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//y2k.zone/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/y2k-entertainment/</loc>
+		<loc>https://y2k.zone/category/y2k-entertainment/</loc>
 		<lastmod>2023-11-09T21:20:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/y2k-fashion/</loc>
+		<loc>https://y2k.zone/category/y2k-fashion/</loc>
 		<lastmod>2023-11-09T15:40:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/y2k-tech/</loc>
+		<loc>https://y2k.zone/category/y2k-tech/</loc>
 		<lastmod>2023-11-09T20:46:21+00:00</lastmod>
 	</url>
 </urlset>
