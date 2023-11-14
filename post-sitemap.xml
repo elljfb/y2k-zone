@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://y2k.zone/</loc>
-		<lastmod>2023-11-09T21:20:15+00:00</lastmod>
+		<lastmod>2023-11-14T14:48:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://y2k.zone/y2k-fashion-must-haves/</loc>
@@ -185,6 +185,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/spider-man.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://y2k.zone/original-xbox-y2k-era-gaming-icon/</loc>
+		<lastmod>2023-11-14T14:48:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/original-xbox.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/xbox.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/PS2-vs.-Xbox.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/xbox-homescreen-y2k.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/halo.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
