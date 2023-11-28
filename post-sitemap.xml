@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://y2k.zone/</loc>
-		<lastmod>2023-11-22T14:03:40+00:00</lastmod>
+		<lastmod>2023-11-28T12:31:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://y2k.zone/y2k-fashion-must-haves/</loc>
@@ -220,6 +220,49 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/y2k-bug.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://y2k.zone/top-5-cars-of-the-y2k-era/</loc>
+		<lastmod>2023-11-28T11:48:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/acura-integra.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/hummberh2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/Leonardo-Dicaprio-With-His-Toyota-Prius.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/2001-lamborghini-diablo-vt-60-road-test-review-car-and-driver-photo-9635-s-original.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/Porsche-Boxster-S-2000-%E2%80%93-Specifications.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/0_honda_integra_type_r-scaled.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://y2k.zone/movie-quotes-2000/</loc>
+		<lastmod>2023-11-28T12:30:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/Home-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://y2k.zone/movie-quotes-1995/</loc>
+		<lastmod>2023-11-28T12:31:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/Home.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://y2k.zone/movie-quotes-1999/</loc>
+		<lastmod>2023-11-28T12:31:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://y2k.zone/wp-content/uploads/2023/11/Home-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
